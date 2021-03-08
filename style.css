@@ -1,0 +1,111 @@
+img {
+    border: solid;
+    border-color: black;
+}
+
+.header {
+    display: flex;
+    color: #ff6666;
+    background-color: #5ac0dc;
+    justify-content: space-between;
+}
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }
+
+.camel {
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(186, 159, 90);
+}
+
+.chameleon {
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(186, 159, 90);
+}
+
+.pigeon {
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(186, 159, 90);
+}    
+
+.teddy-bear {
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(186, 159, 90);
+}
+
+.panda {
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(186, 159, 90);
+}
+
+.flying-cicada {
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(186, 159, 90);
+}
+
+.crab {
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(186, 159, 90);
+}
+/* .crab:hover{
+    transform: scale(1.2)
+} */
+
+.swan {
+    border: solid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    height: 300px;
+    background-color: rgb(186, 159, 90);
+}
+
+body {
+    font-style: italic;
+    font-size: medium;
+}
+
+.intro {
+    background-color: rgb(167, 234, 139);
+}
+a:link{
+    color:white;
+}
+a:visited{
+    color:brown;
+}
+a:hover{
+    color: sandybrown;
+    text-decoration: overline;
+}
